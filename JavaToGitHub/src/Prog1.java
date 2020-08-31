@@ -7,6 +7,8 @@ public class Prog1 {
 		System.out.println("Third Line");
 		System.out.println("4 Line");
 		System.out.println("5 Line");
+		System.out.println("6 Line");
+		
 	}
 
 }
